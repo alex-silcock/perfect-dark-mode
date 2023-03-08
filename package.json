@@ -1,0 +1,21 @@
+{
+  "name": "perfect-dark-mode",
+  "displayName": "Perfect Dark Mode",
+  "description": "The perfect dark mode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Perfect Dark Mode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Perfect Dark Mode Theme-color-theme.json"
+      }
+    ]
+  }
+}
