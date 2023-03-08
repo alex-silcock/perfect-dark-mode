@@ -1,6 +1,7 @@
 {
   "name": "perfect-dark-mode",
   "displayName": "Perfect Dark Mode",
+  "publisher": "as4387",
   "description": "The perfect dark mode theme",
   "version": "0.0.1",
   "engines": {
