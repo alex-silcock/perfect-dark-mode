@@ -1,17 +1,25 @@
 {
 	"name": "Perfect Dark Mode Theme",
 	"colors": {
-		"editor.background": "#24292e",
-		"editor.foreground": "#ebe0e0",
+		"editor.background": "#131314",
+		"editor.foreground": "#c9d1d9",
 		"activityBarBadge.background": "#24292e",
-		"sideBarTitle.foreground": "#0d46f1",
-		"statusBar.foreground": "#d1d5da",
+
+		"sideBar.foreground": "#d1d5da",
+		"sideBar.background": "#0f0f0f",
+		"sideBar.border": "#46484a",
+		"sideBarTitle.foreground": "#cbc6c6",
+		"sideBarSectionHeader.foreground": "#cbc6c6",
+		"sideBarSectionHeader.background": "#272729",
+		"sideBarSectionHeader.border": "#353536",
+		
+		"statusBar.foreground": "#cbc6c6",
 		"statusBar.background": "#24292e",
-		"statusBar.border": "#1b1f23",
+		"statusBar.border": "#46484a",
 		"statusBar.noFolderBackground": "#24292e",
 		"statusBar.debuggingBackground": "#931c06",
 		"statusBar.debuggingForeground": "#fff",
-		"statusBarItem.prominentBackground": "#282e34",
+		"statusBarItem.prominentBackground": "#24292e",
 
 	},
 	"tokenColors": [
@@ -22,8 +30,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#6a737d"
+				"fontStyle": "italic",
+				"foreground": "#797c80"
 			}
 		},
 		{
@@ -33,7 +41,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ebe0e0"
+				"foreground": "#e2e2e2"
 			}
 		},
 		{
@@ -63,7 +71,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ffbbea"
+				"foreground": "#6babff"
 			}
 		},
 		{
@@ -83,7 +91,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#f86a6a"
 			}
 		},
 		{
@@ -94,7 +102,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#624142"
 			}
 		},
 		{
@@ -116,7 +124,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#e0babc"
+				"foreground": "#73bbff"
 			}
 		},
 		{
